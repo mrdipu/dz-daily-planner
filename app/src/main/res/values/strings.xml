@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DZ Daily Planner</string>
+    <string name="notification_channel_name">Daily Reminders</string>
+    <string name="notification_channel_description">Scheduled reminders and upcoming event alerts from DZ Daily Planner</string>
+    <string name="action_complete">Mark Done</string>
+    <string name="action_snooze">Snooze</string>
+    <string name="splash_logo_desc">DZ Ai-STUDIO logo</string>
+</resources>

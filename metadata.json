@@ -1,0 +1,6 @@
+{
+  "name": "DZ Daily Planner",
+  "description": "Offline-first personal daily planner for notes, interactive calendar events, and native Android reminders by DZ Ai-STUDIO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
